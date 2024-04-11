@@ -8,10 +8,6 @@ EggShell is a post exploitation surveillance tool written in Python. It gives yo
 
 <img src="http://lucasjackson.io/images/eggshell/main-menu.png?3" alt="Main menu" width="500px;"/>
 
-For detailed information and how-to visit http://lucasjackson.io/eggshell
-
-Follow me on twitter: @neoneggplant
-
 <hr style="height:1px; background:#9EA4A9">
 
 
